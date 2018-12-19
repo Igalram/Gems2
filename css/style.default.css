@@ -7,7 +7,7 @@ body {
 }
 
 p {
-  font-size: 18px;
+  font-size: 17px;
   color: white;
 }
 
@@ -37,7 +37,7 @@ section {
 }
 @media (max-width: 991px) {
   .section-gray {
-    background: #eeeeee;
+    background: #172a2c;
   }
 }
 .overlay {
@@ -100,7 +100,7 @@ h4.heading:after {
 }
 .services .box {
   margin-bottom: 20px;
-  text-align: center;
+  text-align: left;
 }
 .services .icon {
   width: 40px;
